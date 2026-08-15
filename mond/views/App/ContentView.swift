@@ -44,7 +44,7 @@ struct ContentView: View {
                     } label: {
                         Text("HouseArrest")
                     }
-                    .disabled(true)
+                    .disabled(false)
                 } header: {
                     Label("Tweaks", systemImage: "paintbrush")
                 } footer: {
