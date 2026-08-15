@@ -20,14 +20,28 @@
 </p>
 
 > [!WARNING]  
-> Some of the tweaks have the potential to brick your device! Use at your own risk.
+> Some of the tweaks have the potential to brick your device!<br>Use at your own risk.
+
+>[!NOTE]
+> No questions regarding Apple Intelligence will be answered in GitHub issues anymore.<br>Ask in the [discord server](https://discord.gg/gw8PcRF3Jr).
+
+**Version Support:**
+| iOS Version | Support |
+|---|---|
+| iOS ≤ 26.x | unsupported |
+| iOS 27.0 dev beta 1–4 | supported |
+| iOS 27.0 public beta 1–2 | supported |
+| iOS 27.0 dev beta ≥ 5 | unsupported |
+| iOS 27.0 public beta ≥ 3 | unsupported |
 
 **Planned:**<br>
 &#45; HouseArrest file browser<br>
-&#45; Pocket Poster
 
-<details>
-<summary><strong>Implemented:</strong></summary>
+**Implemented:**<br>
+&#45; Pocket Poster<br>
+&#45; MobileGestalt Editor<br>
+
+<details><summary>MobileGestalt Tweaks:</summary>
   
 **Device Artwork**<br>
 &#45; Subtype: Changes the reported device artwork/model.<br>
@@ -64,8 +78,8 @@
 &#45; Internal Storage: Enables internal storage features.<br>
 &#45; Internal Features: Enables internal Apple features.<br>
 &#45; Metal HUD in All Apps: Enables the Metal HUD across apps.<br>
-</details><sup>
-NOTE: Some tweaks may not appear on your device because they aren't supported.</sup>
+</details>
+<sup>NOTE: Some tweaks may not appear on your device because they aren't supported.</sup>
 
 **Known Issues:**<br>
 &#45; Tweaks may disappear on reboot<br>
