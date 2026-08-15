@@ -42,7 +42,7 @@ struct ContentView: View {
                     NavigationLink {
                         SantanderView()
                     } label: {
-                        Text("HouseArrest")
+                        Text("HouseArrest(UNSAFE)")
                     }
                     .disabled(false)
                 } header: {
